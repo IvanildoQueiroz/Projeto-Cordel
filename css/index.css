@@ -83,6 +83,8 @@ footer{
 footer a{
     text-decoration: none;
     color: #fff;
-    font: 600 21px verdana;
+    font-family:verdana;
+    font-size: max(10px,2vh);
+    font-weight: 600;
 
 }
