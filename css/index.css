@@ -24,10 +24,10 @@ header{
 }
 header h1{
     font: bolder 7vh Passion One  ;
-    font-size: max(8px,8.5vh);
+    font-size: max(8px,8.5vw);
 }
 header h1::first-letter{
-    font-size: max(13px,15vh);
+    font-size: max(11px,15vw);
 }
 header :where(p,a){
     text-decoration: none;
@@ -70,7 +70,7 @@ header a:hover,footer a:hover{
 .verses div:nth-child(2) p,.verses div:nth-child(5) p{
     background-color: #0000002d;
     max-width:max(630px,650px);
-    padding: 20px;
+    padding: 10px;
     border-radius: 20px;
 }
 footer{
