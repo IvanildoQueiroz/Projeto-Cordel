@@ -24,15 +24,15 @@ header{
 }
 header h1{
     font: bolder 7vh Passion One  ;
-    font-size: max(16px,7vh);
+    font-size: max(15px,9.5vh);
 }
 header h1::first-letter{
-    font-size: 10vh;
+    font-size: max(18px,15vh);
 }
 header :where(p,a){
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: max(17px,1.7vh);
+    font-size: max(15px,1.7vh);
     color: #fff;
 }
 header a{
@@ -54,9 +54,9 @@ header a:hover,footer a:hover{
     font-size: max(21px,4vh);
 }
 .verses div p{
-    line-height: 60px;
+
     height: 100%;
-    font-size:max(21px,80%);
+    font-size:max(21px,4vh);
 }
 .verses div:nth-child(2){
     background: blue url('../assets/img_joa_div.jpeg') center center no-repeat fixed;
