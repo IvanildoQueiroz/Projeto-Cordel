@@ -24,7 +24,7 @@ header{
 }
 header h1{
     font: bolder 7vh Passion One  ;
-    font-size: max(10px,8.5vh);
+    font-size: max(8px,8.5vh);
 }
 header h1::first-letter{
     font-size: max(13px,15vh);
@@ -51,12 +51,12 @@ header a:hover,footer a:hover{
     margin: 10px;
     padding: 35px;
     font-family: "Sriracha", cursive;
-    font-size: max(21px,4vh);
+    font-size: max(20px,4vh);
 }
 .verses div p{
 
     height: 100%;
-    font-size:max(20px,4vh);
+    font-size:max(23px,4vh);
 }
 .verses div:nth-child(2){
     background: blue url('../assets/img_joa_div.jpeg') center center no-repeat fixed;
