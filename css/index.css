@@ -55,7 +55,7 @@ header a:hover,footer a:hover{
 .verses div p{
     line-height: 60px;
     height: 100%;
-    font-size: 100%;
+    font-size:max(21px,80%);
 }
 .verses div:nth-child(2){
     background: blue url('../assets/img_joa_div.jpeg') center center no-repeat fixed;
@@ -76,7 +76,8 @@ footer{
     background-color: #000;
     color: #fff;
     height: 50px;
-    font: 17px verdana;
+    font-family:verdana;
+    font-size: max(10px,2vh);
     text-align: center;
 }
 footer a{
