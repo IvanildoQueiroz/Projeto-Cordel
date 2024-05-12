@@ -24,10 +24,10 @@ header{
 }
 header h1{
     font: bolder 7vh Passion One  ;
-    font-size: max(15px,9.5vh);
+    font-size: max(10px,9.5vh);
 }
 header h1::first-letter{
-    font-size: max(18px,15vh);
+    font-size: max(13px,15vh);
 }
 header :where(p,a){
     text-decoration: none;
@@ -56,7 +56,7 @@ header a:hover,footer a:hover{
 .verses div p{
 
     height: 100%;
-    font-size:max(21px,4vh);
+    font-size:max(21px,4.2vh);
 }
 .verses div:nth-child(2){
     background: blue url('../assets/img_joa_div.jpeg') center center no-repeat fixed;
