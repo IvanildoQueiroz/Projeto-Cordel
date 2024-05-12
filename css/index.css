@@ -24,7 +24,7 @@ header{
 }
 header h1{
     font: bolder 7vh Passion One  ;
-    font-size: max(20px,8vh);
+    font-size: max(16px,7vh);
 }
 header h1::first-letter{
     font-size: 10vh;
@@ -78,7 +78,7 @@ footer{
     color: #fff;
     height: 50px;
     font-family:verdana;
-    font-size: max(10px,2vh);
+    font-size: max(10px,1.5vh);
     text-align: center;
 }
 footer a{
@@ -86,6 +86,6 @@ footer a{
     color: #fff;
     font-family:verdana;
     font-weight: 600;
-    font-size: max(7px,2vh);
+    font-size: max(7px,1.6vh);
 
 }
